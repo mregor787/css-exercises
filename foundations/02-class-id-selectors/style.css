@@ -1,0 +1,16 @@
+.odd-numbered {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #f0aab5;
+}
+.cooler {
+    font-size: 24px;
+}
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
